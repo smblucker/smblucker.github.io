@@ -127,3 +127,9 @@ a:hover {
 .social-icons {
   padding: 20px 10px;
 }
+
+@media (max-width: 1400px) {
+  #title {
+    text-align: center;
+  }
+}
