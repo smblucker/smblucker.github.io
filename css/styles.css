@@ -85,10 +85,6 @@ a:hover {
   text-align: left;
 }
 
-.title-img {
-  /* padding-left: 5%; */
-}
-
 /* Skills Section */
 .skill-text {
   font-size: 3rem;
@@ -128,8 +124,16 @@ a:hover {
   padding: 20px 10px;
 }
 
-@media (max-width: 1400px) {
+@media (max-width: 1280px) {
   #title {
     text-align: center;
+  }
+
+  #xp {
+    text-align: center;
+  }
+
+  .title-img {
+    position: static;
   }
 }
