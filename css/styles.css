@@ -1,0 +1,129 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+
+a {
+  color: #212121;
+}
+
+a:hover {
+  color: #673ab7;
+}
+
+/* Headings */
+.big-heading {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+/* Containers */
+.container-fluid {
+  padding: 5% 15%;
+}
+
+/* Sections */
+.colored-section {
+  background-color: #512da8;
+  color: white;
+}
+
+.medium-section {
+  background-color: #673ab7;
+  color: white;
+}
+
+.light-section {
+  background-color: #d1c4e9;
+  color: #212121;
+}
+
+.white-section {
+  background-color: white;
+  color: #212121;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+
+.nav-item {
+  padding: 0 0 0 10px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+/* Download Buttons */
+.download-btn {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Section */
+#title .container-fluid {
+  padding: 3% 15% 7%;
+  text-align: left;
+}
+
+.title-img {
+  padding-left: 20%;
+}
+
+/* Skills Section */
+.skill-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.skill-image {
+  border-radius: 100%;
+  margin: 20px;
+  width: 10%;
+}
+
+/* Experience Section */
+#xp .container-fluid {
+  text-align: left;
+}
+
+.xp-role {
+  padding-bottom: 10px;
+}
+
+/* Education Section */
+.education-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.education-image {
+  border-radius: 100%;
+  margin: 20px;
+  width: 10%;
+}
+
+/* Footer Section */
+
+.social-icons {
+  padding: 20px 10px;
+}
